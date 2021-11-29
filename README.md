@@ -1,1 +1,1 @@
-# diabeticsDetection
+# Diabetics detection using logistic regression
